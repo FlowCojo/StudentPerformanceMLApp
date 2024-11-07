@@ -1,1 +1,1 @@
-## End to End Machine Learning Project
+## E2E Machine Learning pipeline
